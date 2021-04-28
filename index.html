@@ -5,17 +5,37 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+div {
+  background-image: url('background.png');
+}
+
+h1   {color: white;}
+p    {color: white;}
+
 * {
   box-sizing: border-box;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  /*text-decoration: none;
+  */
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  /*text-decoration: none;
+  */
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url('background.png');
 }
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #301934;
   padding: 1px;
   text-align: center;
   font-size: 35px;
@@ -25,9 +45,9 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 30%;
+  width: 20%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
+  background: #363636;
   padding: 20px;
 }
 
@@ -40,8 +60,8 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
-  background-color: #f1f1f1;
+  width: 80%;
+  background-color: #181a1b;
   height: 300px; /* only for demonstration, should be removed */
 }
 
@@ -54,7 +74,7 @@ section::after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #301934;
   padding: 10px;
   text-align: center;
   color: white;
