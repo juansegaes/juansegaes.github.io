@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Juan Sebastián Gaitán-Escarpeta</title>
-    <link>http://example.org/tags/</link>
+    <link>http://sebastiangaitan.xyz/tags/</link>
     <description>Recent content in Tags on Juan Sebastián Gaitán-Escarpeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>j.gs@e.com (Juan Sebastián Gaitán-Escarpeta)</managingEditor>
     <webMaster>j.gs@e.com (Juan Sebastián Gaitán-Escarpeta)</webMaster>
-    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright><atom:link href="http://sebastiangaitan.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
