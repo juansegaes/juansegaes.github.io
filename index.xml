@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Juan Sebastián Gaitán-Escarpeta</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on Juan Sebastián Gaitán-Escarpeta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>j.gs@e.com (Juan Sebastián Gaitán-Escarpeta)</managingEditor>
+    <webMaster>j.gs@e.com (Juan Sebastián Gaitán-Escarpeta)</webMaster>
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Sat, 03 Jul 2021 16:24:59 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A better way of editing LaTeX</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sat, 03 Jul 2021 17:53:55 -0500</pubDate>
+      <author>j.gs@e.com (Juan Sebastián Gaitán-Escarpeta)</author>
+      <guid>http://example.org/posts/first_post/</guid>
+      <description>In the life of a mathemathician, there is a big chunk of time dedicated to editing and formating LaTex documents. Some (even some mathemathicians) may think that this is just a small part of what we do, but in reality we spend more time that what we would like to admit writing and editing LaTeX documents.</description>
+    </item>
+    
+  </channel>
+</rss>
